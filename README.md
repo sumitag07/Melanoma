@@ -33,5 +33,5 @@ Train the model for ~30 epochs
 
 
 ## Contact
-Created by [@sumitag07 @Harshdeep-Singh-kh] - feel free to contact us!
+Created by [@sumitag07] - feel free to contact us!
 
